@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box1{
+    height: 500px;
+    width: 500px;
+    background-color: skyblue;
+    align-items: center;
+    text-align: center;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+    justify-content: center;
+}
+p{
+    background: none;
+    color: darkviolet;
+    font-size: 100px;
+}
